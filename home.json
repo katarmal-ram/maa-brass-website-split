@@ -1,0 +1,220 @@
+{
+  "hero": {
+    "cta": {
+      "primary": "Explore Casting Solutions",
+      "secondary": "Get a Quote",
+      "primaryAction": "/services",
+      "secondaryAction": "/contact"
+    },
+    "type": "video",
+    "title": "Precision Brass Casting for Industrial Excellence",
+    "enabled": true,
+    "subtitle": "90+ Years of Manufacturing Expertise Delivering High-Quality Custom Metal Components",
+    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d3?auto=format&fit=crop&w=2000&q=80",
+    "backgroundVideo": "https://example.com/maa-brass-manufacturing-video.mp4"
+  },
+  "meta": {
+    "title": "Maa Brass - Industrial Casting Solutions - Gujarat, India",
+    "description": "Premier brass casting manufacturer with 90+ years of experience. Precision engineering for automotive, plumbing, and industrial applications across India."
+  },
+  "sections": {
+    "cta": {
+      "type": "cta",
+      "title": "Transform Your Manufacturing with Expert Casting Solutions",
+      "enabled": true,
+      "subtitle": "Partner with India's leading brass casting foundry for unparalleled quality, precision, and industrial expertise",
+      "primaryCTA": {
+        "text": "View Our Services",
+        "action": "/services"
+      },
+      "secondaryCTA": {
+        "text": "Contact Us",
+        "action": "/contact"
+      }
+    },
+    "faqs": {
+      "type": "faqs",
+      "items": [
+        {
+          "id": "minimum-order-quantity",
+          "question": "What is your minimum order quantity for brass castings?",
+          "answer": "We accommodate both small and large volume orders, with flexible production capabilities ranging from prototype to bulk manufacturing runs."
+        },
+        {
+          "id": "casting-capabilities",
+          "question": "What casting techniques do you specialize in?",
+          "answer": "We offer sand, die, investment, gravity, and centrifugal casting techniques to meet diverse industrial manufacturing requirements and specifications."
+        },
+        {
+          "id": "quality-standards",
+          "question": "What quality certifications do you maintain?",
+          "answer": "We adhere to international quality standards and maintain rigorous quality control processes to ensure consistent, high-precision brass casting components."
+        },
+        {
+          "id": "lead-times",
+          "question": "What are your typical production lead times?",
+          "answer": "Lead times vary by complexity, typically ranging from 2-6 weeks. We optimize production schedules to meet your specific project timelines."
+        },
+        {
+          "id": "custom-design",
+          "question": "Can you manufacture custom brass casting designs?",
+          "answer": "Yes, we provide complete custom casting solutions, including design consultation, prototype development, and precision manufacturing for unique components."
+        }
+      ],
+      "title": "Frequently Asked Questions",
+      "enabled": true,
+      "subtitle": "Get answers to common questions about our brass casting manufacturing services"
+    },
+    "stats": {
+      "type": "stats",
+      "items": [
+        {
+          "label": "Years of Experience",
+          "number": "90+"
+        },
+        {
+          "label": "Product Range",
+          "number": "500+"
+        },
+        {
+          "label": "Global Reach",
+          "number": "25+"
+        },
+        {
+          "label": "Customer Satisfaction",
+          "number": "98%"
+        }
+      ],
+      "title": "Our Performance and Achievements",
+      "enabled": true,
+      "subtitle": "Proven track record of excellence in brass casting manufacturing"
+    },
+    "expertise": {
+      "type": "expertise",
+      "title": "Industry Expertise and Solutions",
+      "enabled": true,
+      "sectors": [
+        {
+          "id": "automotive-sector",
+          "name": "Automotive Manufacturing",
+          "image": "https://images.unsplash.com/photo-1519861531473-1fa5faa1a478?auto=format&fit=crop&w=600&q=80",
+          "description": "Specialized brass casting solutions for automotive components, delivering precision-engineered parts for critical vehicle systems",
+          "applications": [
+            "Engine Fittings",
+            "Transmission Components",
+            "Fluid Connectors",
+            "Sensor Housings",
+            "Brake System Parts"
+          ]
+        },
+        {
+          "id": "plumbing-sector",
+          "name": "Plumbing and Sanitary",
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d3?auto=format&fit=crop&w=600&q=80",
+          "description": "High-quality brass casting for plumbing infrastructure, providing durable and reliable components for water management systems",
+          "applications": [
+            "Valve Bodies",
+            "Pipe Fittings",
+            "Connectors",
+            "Tap Components",
+            "Manifold Systems"
+          ]
+        },
+        {
+          "id": "electrical-sector",
+          "name": "Electrical Hardware",
+          "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=600&q=80",
+          "description": "Precision brass castings for electrical infrastructure, ensuring high conductivity and reliable performance in critical applications",
+          "applications": [
+            "Switchgear Parts",
+            "Connector Housings",
+            "Terminal Blocks",
+            "Electrical Fittings",
+            "Grounding Components"
+          ]
+        },
+        {
+          "id": "industrial-sector",
+          "name": "Industrial Machinery",
+          "image": "https://images.unsplash.com/photo-1517841645367-c1e4bec1d6c3?auto=format&fit=crop&w=600&q=80",
+          "description": "Complex brass casting solutions for industrial machinery, delivering robust and precise components for demanding manufacturing environments",
+          "applications": [
+            "Pump Components",
+            "Bearing Housings",
+            "Impeller Castings",
+            "Coupling Systems",
+            "Mechanical Interfaces"
+          ]
+        }
+      ],
+      "subtitle": "Comprehensive casting solutions across multiple industrial sectors",
+      "description": "Maa Brass delivers specialized casting manufacturing solutions, leveraging decades of expertise to serve diverse industrial requirements with precision and innovation"
+    },
+    "whyChooseUs": {
+      "type": "why-choose-us",
+      "items": [
+        {
+          "id": "precision-engineering",
+          "icon": "award",
+          "title": "Precision Manufacturing",
+          "description": "Advanced casting techniques ensuring tight tolerances, superior surface finish, and consistent quality across complex brass component designs"
+        },
+        {
+          "id": "technological-expertise",
+          "icon": "star",
+          "title": "Advanced Technology",
+          "description": "State-of-the-art foundry infrastructure and continuous technological investment enabling sophisticated manufacturing capabilities"
+        },
+        {
+          "id": "custom-solutions",
+          "icon": "shield",
+          "title": "Custom Engineering",
+          "description": "Comprehensive design support and flexible manufacturing approach to deliver tailored brass casting solutions meeting unique project requirements"
+        }
+      ],
+      "title": "Why Choose Maa Brass",
+      "enabled": true,
+      "subtitle": "Your trusted partner in precision brass casting manufacturing"
+    },
+    "aboutusintro": {
+      "type": "about-us-intro",
+      "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d3?auto=format&fit=crop&w=800&q=80",
+      "title": "About Maa Brass",
+      "enabled": true,
+      "subtitle": "Leading Brass Casting Manufacturer with Decades of Industrial Excellence",
+      "highlights": [
+        "Located in Jamnagar, Gujarat",
+        "Comprehensive Casting Solutions",
+        "90+ Years of Manufacturing",
+        "Advanced Production Technologies"
+      ],
+      "description": "Established in the heart of India's brass manufacturing hub, Maa Brass has been delivering high-quality brass casting solutions for over nine decades, continuously evolving to meet global industrial standards"
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "items": [
+        {
+          "id": "automotive-client",
+          "name": "Rajesh Patel",
+          "image": "https://images.unsplash.com/photo-1507003211169-0fc1a8c0de1f?auto=format&fit=crop&w=150&q=80",
+          "rating": 5,
+          "company": "AutoTech Industries",
+          "content": "Maa Brass consistently delivers exceptional precision brass components that meet our stringent automotive manufacturing requirements",
+          "designation": "Chief Procurement Officer"
+        },
+        {
+          "id": "plumbing-client",
+          "name": "Amit Sharma",
+          "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=150&q=80",
+          "rating": 5,
+          "company": "WaterSolutions Pvt Ltd",
+          "content": "Their custom casting solutions and technical expertise have been instrumental in developing our advanced plumbing infrastructure components",
+          "designation": "Engineering Director"
+        }
+      ],
+      "title": "Client Success Stories",
+      "enabled": true,
+      "subtitle": "Trusted by leading manufacturers across multiple industries"
+    }
+  }
+}
